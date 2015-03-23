@@ -1,0 +1,1033 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Magtastico WordPress Theme\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2014-05-14 13:43-0800\n"
+"PO-Revision-Date: 2014-05-14 13:43-0800\n"
+"Last-Translator: AJ Clarke <wpexplorer@gmail.com>\n"
+"Language-Team: WPExplorer.com\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e;_n;_nx\n"
+"X-Poedit-Basepath: .\n"
+"X-Generator: Poedit 1.5.5\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../404.php:17
+msgid "Unfortunately, the page you tried accessing could not be retrieved."
+msgstr ""
+
+#: ../archive.php:22
+#, php-format
+msgid "Daily Archives: %s"
+msgstr ""
+
+#: ../archive.php:24
+#, php-format
+msgid "Monthly Archives: %s"
+msgstr ""
+
+#: ../archive.php:26
+#, php-format
+msgid "Yearly Archives: %s"
+msgstr ""
+
+#: ../author.php:18
+msgid "Articles Written By"
+msgstr ""
+
+#: ../author.php:22
+#, php-format
+msgid "This author has written %s articles"
+msgstr ""
+
+#: ../comments.php:28
+msgid "There is 1 comment for this article"
+msgstr ""
+
+#: ../comments.php:30
+#, php-format
+msgid "There are %s comments for this article"
+msgstr ""
+
+#: ../comments.php:45
+msgid "Newer Comments &larr;"
+msgstr ""
+
+#: ../comments.php:48
+msgid "&rarr; Older Comments"
+msgstr ""
+
+#: ../comments.php:52
+msgid "&larr; Older Comments"
+msgstr ""
+
+#: ../comments.php:55
+msgid "Newer Comments &rarr;"
+msgstr ""
+
+#: ../comments.php:64
+msgid "Cancel comment reply"
+msgstr ""
+
+#: ../content-audio.php:64 ../content-gallery.php:50 ../content-video.php:57
+#: ../content.php:60
+msgid "Read More"
+msgstr ""
+
+#: ../content-none.php:13
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: ../content-none.php:15
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with "
+"different keywords."
+msgstr ""
+
+#: ../content-none.php:17
+msgid "There aren't any posts currently published in this category."
+msgstr ""
+
+#: ../content-none.php:19
+msgid "There aren't any posts currently published under this taxonomy."
+msgstr ""
+
+#: ../content-none.php:21
+msgid "There aren't any posts currently published under this tag."
+msgstr ""
+
+#: ../content-none.php:23
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for."
+msgstr ""
+
+#: ../search.php:15
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#: ../sidebar.php:20
+msgid "Toggle Sidebar"
+msgstr ""
+
+#: ../functions/breadcrumbs.php:55
+msgid "Shop"
+msgstr ""
+
+#: ../functions/breadcrumbs.php:80
+msgid "Home"
+msgstr ""
+
+#: ../functions/breadcrumbs.php:304
+msgid "g:i a"
+msgstr ""
+
+#: ../functions/breadcrumbs.php:307
+#, php-format
+msgid "Minute %1$s"
+msgstr ""
+
+#: ../functions/breadcrumbs.php:307
+msgid "i"
+msgstr ""
+
+#: ../functions/breadcrumbs.php:310
+msgid "g a"
+msgstr ""
+
+#: ../functions/breadcrumbs.php:321 ../functions/breadcrumbs.php:327
+#: ../functions/breadcrumbs.php:332 ../functions/breadcrumbs.php:337
+msgid "Y"
+msgstr ""
+
+#: ../functions/breadcrumbs.php:322 ../functions/breadcrumbs.php:333
+msgid "F"
+msgstr ""
+
+#: ../functions/breadcrumbs.php:323
+msgid "j"
+msgstr ""
+
+#: ../functions/breadcrumbs.php:328
+#, php-format
+msgid "Week %1$s"
+msgstr ""
+
+#: ../functions/breadcrumbs.php:344
+#, php-format
+msgid "Search results for &quot;%1$s&quot;"
+msgstr ""
+
+#: ../functions/breadcrumbs.php:348
+msgid "404 Not Found"
+msgstr ""
+
+#: ../functions/class-tgm-plugin-activation.php:164
+#: ../functions/recommend-plugins.php:77
+msgid "Install Required Plugins"
+msgstr ""
+
+#: ../functions/class-tgm-plugin-activation.php:165
+#: ../functions/recommend-plugins.php:78
+msgid "Install Plugins"
+msgstr ""
+
+#: ../functions/class-tgm-plugin-activation.php:166
+#: ../functions/recommend-plugins.php:79
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: ../functions/class-tgm-plugin-activation.php:167
+msgid "Something went wrong."
+msgstr ""
+
+#: ../functions/class-tgm-plugin-activation.php:178
+#: ../functions/class-tgm-plugin-activation.php:490
+#: ../functions/recommend-plugins.php:91
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: ../functions/class-tgm-plugin-activation.php:179
+#: ../functions/class-tgm-plugin-activation.php:1846
+#: ../functions/recommend-plugins.php:92
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: ../functions/class-tgm-plugin-activation.php:180
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: ../functions/class-tgm-plugin-activation.php:517
+#: ../functions/class-tgm-plugin-activation.php:2058
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: ../functions/class-tgm-plugin-activation.php:545
+#, php-format
+msgid "The following plugin was activated successfully: %s."
+msgstr ""
+
+#: ../functions/class-tgm-plugin-activation.php:704
+msgid "Dismiss this notice"
+msgstr ""
+
+#: ../functions/class-tgm-plugin-activation.php:1091
+msgid "External Link"
+msgstr ""
+
+#: ../functions/class-tgm-plugin-activation.php:1096
+msgid "Private Repository"
+msgstr ""
+
+#: ../functions/class-tgm-plugin-activation.php:1099
+msgid "Pre-Packaged"
+msgstr ""
+
+#: ../functions/class-tgm-plugin-activation.php:1103
+msgid "WordPress Repository"
+msgstr ""
+
+#: ../functions/class-tgm-plugin-activation.php:1106
+msgid "Required"
+msgstr ""
+
+#: ../functions/class-tgm-plugin-activation.php:1106
+msgid "Recommended"
+msgstr ""
+
+#: ../functions/class-tgm-plugin-activation.php:1109
+msgid "Not Installed"
+msgstr ""
+
+#: ../functions/class-tgm-plugin-activation.php:1111
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: ../functions/class-tgm-plugin-activation.php:1281
+#, php-format
+msgid ""
+"No plugins to install or activate. <a href=\"%1$s\" title=\"Return to the "
+"Dashboard\">Return to the Dashboard</a>"
+msgstr ""
+
+#: ../functions/class-tgm-plugin-activation.php:1297
+msgid "Plugin"
+msgstr ""
+
+#: ../functions/class-tgm-plugin-activation.php:1298
+msgid "Source"
+msgstr ""
+
+#: ../functions/class-tgm-plugin-activation.php:1299
+msgid "Type"
+msgstr ""
+
+#: ../functions/class-tgm-plugin-activation.php:1300
+msgid "Status"
+msgstr ""
+
+#: ../functions/class-tgm-plugin-activation.php:1318
+msgid "Install"
+msgstr ""
+
+#: ../functions/class-tgm-plugin-activation.php:1319
+msgid "Activate"
+msgstr ""
+
+#: ../functions/class-tgm-plugin-activation.php:1544
+msgid "The following plugin was activated successfully:"
+msgstr ""
+
+#: ../functions/class-tgm-plugin-activation.php:1829
+msgid "Install package not available."
+msgstr ""
+
+#: ../functions/class-tgm-plugin-activation.php:1830
+#, php-format
+msgid "Downloading install package from <span class=\"code\">%s</span>&#8230;"
+msgstr ""
+
+#: ../functions/class-tgm-plugin-activation.php:1831
+msgid "Unpacking the package&#8230;"
+msgstr ""
+
+#: ../functions/class-tgm-plugin-activation.php:1832
+msgid "Installing the plugin&#8230;"
+msgstr ""
+
+#: ../functions/class-tgm-plugin-activation.php:1833
+msgid "Plugin install failed."
+msgstr ""
+
+#: ../functions/class-tgm-plugin-activation.php:1834
+msgid "Plugin installed successfully."
+msgstr ""
+
+#: ../functions/class-tgm-plugin-activation.php:1845
+msgid "Plugin activation failed."
+msgstr ""
+
+#: ../functions/class-tgm-plugin-activation.php:1955
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#: ../functions/class-tgm-plugin-activation.php:1956
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: ../functions/class-tgm-plugin-activation.php:1956
+#: ../functions/class-tgm-plugin-activation.php:1965
+msgid "Show Details"
+msgstr ""
+
+#: ../functions/class-tgm-plugin-activation.php:1956
+#: ../functions/class-tgm-plugin-activation.php:1965
+msgid "Hide Details"
+msgstr ""
+
+#: ../functions/class-tgm-plugin-activation.php:1957
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: ../functions/class-tgm-plugin-activation.php:1958
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: ../functions/class-tgm-plugin-activation.php:1962
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: ../functions/class-tgm-plugin-activation.php:1963
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: ../functions/class-tgm-plugin-activation.php:1964
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: ../functions/class-tgm-plugin-activation.php:1965
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: ../functions/class-tgm-plugin-activation.php:1966
+msgid "All installations have been completed."
+msgstr ""
+
+#: ../functions/class-tgm-plugin-activation.php:1967
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: ../functions/comments-callback.php:24
+msgid "Pingback:"
+msgstr ""
+
+#: ../functions/comments-callback.php:43
+msgid "at"
+msgstr ""
+
+#: ../functions/comments-callback.php:47
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: ../functions/comments-callback.php:53
+msgid "Reply to this message"
+msgstr ""
+
+#: ../functions/comments-callback.php:55
+msgid "Comment Permalink"
+msgstr ""
+
+#: ../functions/excerpts.php:31
+msgid "continue reading"
+msgstr ""
+
+#: ../functions/excerpts.php:31
+msgid "Read more"
+msgstr ""
+
+#: ../functions/pagination.php:98
+msgid "Newer Posts"
+msgstr ""
+
+#: ../functions/pagination.php:100
+msgid "Older Posts"
+msgstr ""
+
+#: ../functions/pagination.php:112
+msgid "Load Next Articles"
+msgstr ""
+
+#: ../functions/post-author.php:30
+#, php-format
+msgid "Written by %s"
+msgstr ""
+
+#: ../functions/recommend-plugins.php:80
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: ../functions/recommend-plugins.php:93
+#, php-format
+msgid "All plugins installed and activated successfully. %s"
+msgstr ""
+
+#: ../functions/social-share.php:40
+msgid "Share"
+msgstr ""
+
+#: ../functions/social-share.php:46
+msgid "Share on Twitter"
+msgstr ""
+
+#: ../functions/social-share.php:50
+msgid "Share on Facebook"
+msgstr ""
+
+#: ../functions/social-share.php:54
+msgid "Share on Google+"
+msgstr ""
+
+#: ../functions/social-share.php:58
+msgid "Share on Pinterest"
+msgstr ""
+
+#: ../functions/social-share.php:62
+msgid "Share on LinkedIn"
+msgstr ""
+
+#: ../functions/theme-setup.php:18
+msgid "Sidebar"
+msgstr ""
+
+#: ../functions/meta/init.php:243
+msgid "Clear"
+msgstr ""
+
+#: ../functions/meta/init.php:244
+msgid "Default"
+msgstr ""
+
+#: ../functions/meta/init.php:245
+msgid "Select Color"
+msgstr ""
+
+#: ../functions/meta/init.php:246
+msgid "Current Color"
+msgstr ""
+
+#: ../functions/meta/init.php:1226
+msgid "Save"
+msgstr ""
+
+#: ../functions/meta/usage.php:24
+msgid "Post Settings"
+msgstr ""
+
+#: ../functions/meta/usage.php:31
+msgid "Video URL"
+msgstr ""
+
+#: ../functions/meta/usage.php:32
+msgid ""
+"Enter in a video URL that is compatible with WordPress's built-in oEmbed "
+"function or self-hosted video function."
+msgstr ""
+
+#: ../functions/meta/usage.php:38
+msgid "Audio URL"
+msgstr ""
+
+#: ../functions/meta/usage.php:39
+msgid ""
+"Enter in an audio URL that is compatible with WordPress's built-in self-"
+"hosted video function."
+msgstr ""
+
+#: ../functions/meta/usage.php:45
+msgid "Disable Entry Embed"
+msgstr ""
+
+#: ../functions/meta/usage.php:46
+msgid ""
+"Check this box to disable the video/audio embed on entries. See the theme "
+"customizer if you wish to do this for all video & audio entries."
+msgstr ""
+
+#: ../functions/meta/usage.php:52
+msgid "Disable Breadcrumbs"
+msgstr ""
+
+#: ../functions/meta/usage.php:53
+msgid ""
+"If breadcrumbs are enabled you can disable them on a per-post basis using "
+"this setting."
+msgstr ""
+
+#: ../functions/meta/usage.php:59
+msgid "Disable Featured Image Display (On Post)"
+msgstr ""
+
+#: ../functions/meta/usage.php:60 ../functions/meta/usage.php:79
+msgid ""
+"Check this box to prevent the featured image from displaying on the post."
+msgstr ""
+
+#: ../functions/meta/usage.php:71
+msgid "Page Settings"
+msgstr ""
+
+#: ../functions/meta/usage.php:78
+msgid "Disable Featured Image Display"
+msgstr ""
+
+#: ../functions/meta/gallery-metabox/gmb-admin.php:24
+msgid "Image Gallery"
+msgstr ""
+
+#: ../functions/meta/gallery-metabox/gmb-admin.php:80
+#: ../functions/meta/gallery-metabox/gmb-admin.php:141
+msgid "Remove image"
+msgstr ""
+
+#: ../functions/meta/gallery-metabox/gmb-admin.php:91
+msgid "Add/Edit Images"
+msgstr ""
+
+#: ../functions/meta/gallery-metabox/gmb-admin.php:98
+msgid "Enable Lightbox for this gallery?"
+msgstr ""
+
+#: ../functions/meta/gallery-metabox/gmb-admin.php:122
+msgid "Add Images to Gallery"
+msgstr ""
+
+#: ../functions/meta/gallery-metabox/gmb-admin.php:124
+msgid "Add to gallery"
+msgstr ""
+
+#: ../functions/meta/helpers/cmb_Meta_Box_ajax.php:47
+msgid "Please Try Again"
+msgstr ""
+
+#: ../functions/meta/helpers/cmb_Meta_Box_ajax.php:131
+msgid "Remove Embed"
+msgstr ""
+
+#: ../functions/meta/helpers/cmb_Meta_Box_ajax.php:134
+#, php-format
+msgid "No oEmbed Results Found for %s. View more info at"
+msgstr ""
+
+#: ../functions/meta/helpers/cmb_Meta_Box_types.php:150
+msgid "Add Row"
+msgstr ""
+
+#: ../functions/meta/helpers/cmb_Meta_Box_types.php:178
+#: ../functions/meta/helpers/cmb_Meta_Box_types.php:499
+#: ../functions/meta/helpers/cmb_Meta_Box_types.php:542
+msgid "Remove"
+msgstr ""
+
+#: ../functions/meta/helpers/cmb_Meta_Box_types.php:477
+#: ../functions/meta/helpers/cmb_Meta_Box_types.php:515
+msgid "Add or Upload File"
+msgstr ""
+
+#: ../functions/meta/helpers/cmb_Meta_Box_types.php:488
+#: ../functions/meta/helpers/cmb_Meta_Box_types.php:534
+msgid "Remove Image"
+msgstr ""
+
+#: ../functions/meta/helpers/cmb_Meta_Box_types.php:499
+#: ../functions/meta/helpers/cmb_Meta_Box_types.php:542
+msgid "File:"
+msgstr ""
+
+#: ../functions/meta/helpers/cmb_Meta_Box_types.php:499
+#: ../functions/meta/helpers/cmb_Meta_Box_types.php:542
+msgid "Download"
+msgstr ""
+
+#: ../functions/theme-customizer/general.php:18
+msgid "General"
+msgstr ""
+
+#: ../functions/theme-customizer/general.php:28
+msgid "Enable Google Font"
+msgstr ""
+
+#: ../functions/theme-customizer/general.php:41
+msgid "CSS Optimize Browser Image Quality"
+msgstr ""
+
+#: ../functions/theme-customizer/general.php:54
+msgid "Entry Read More Link"
+msgstr ""
+
+#: ../functions/theme-customizer/general.php:67
+msgid "Entry Share Button"
+msgstr ""
+
+#: ../functions/theme-customizer/general.php:80
+msgid "Entry Meta"
+msgstr ""
+
+#: ../functions/theme-customizer/general.php:93
+msgid "Entry Video/Audio Embeds"
+msgstr ""
+
+#: ../functions/theme-customizer/general.php:107
+msgid "Entry Featured Image Lightbox"
+msgstr ""
+
+#: ../functions/theme-customizer/general.php:120
+msgid "Featured Image on Posts"
+msgstr ""
+
+#: ../functions/theme-customizer/general.php:133
+msgid "Comments on Pages"
+msgstr ""
+
+#: ../functions/theme-customizer/general.php:146
+msgid "Post Breadcrumbs"
+msgstr ""
+
+#: ../functions/theme-customizer/general.php:159
+msgid "Single Post Meta"
+msgstr ""
+
+#: ../functions/theme-customizer/general.php:172
+msgid "Next & Previous Post Links"
+msgstr ""
+
+#: ../functions/theme-customizer/general.php:185
+msgid "Custom WP Gallery Output"
+msgstr ""
+
+#: ../functions/theme-customizer/general.php:198
+msgid "Pagination Style"
+msgstr ""
+
+#: ../functions/theme-customizer/general.php:204
+msgid "Infinite Scroll"
+msgstr ""
+
+#: ../functions/theme-customizer/general.php:205
+msgid "Standard"
+msgstr ""
+
+#: ../functions/theme-customizer/general.php:215
+msgid "Entry Display"
+msgstr ""
+
+#: ../functions/theme-customizer/general.php:221
+msgid "Excerpt"
+msgstr ""
+
+#: ../functions/theme-customizer/general.php:222
+msgid "The Content"
+msgstr ""
+
+#: ../functions/theme-customizer/general.php:233
+msgid "Entry Excerpt Length"
+msgstr ""
+
+#: ../functions/theme-customizer/image-sizes.php:18
+msgid "Image Sizes"
+msgstr ""
+
+#: ../functions/theme-customizer/image-sizes.php:20
+msgid ""
+"This theme uses a built-in image resizing function based on the WordPress "
+"wp_get_image_editor() function so you can quickly alter the image sizes on "
+"your site without having to regenerate the thumbnails. If you are more "
+"concerend with site speed then you will probably want to set your entry "
+"image sizes to a different crop then your posts and if your main priority is "
+"storage space you will probably want to set entry sizes the same as post "
+"sizes.<br /><br />Gallery entries must have a fixed height to prevent issues "
+"with the masonry layout.<br /><br />"
+msgstr ""
+
+#: ../functions/theme-customizer/image-sizes.php:28
+msgid ""
+"Enable Retina.js. This will create a second cropped version of every image "
+"that is 2x as big as the original."
+msgstr ""
+
+#: ../functions/theme-customizer/image-sizes.php:41
+msgid "Entry Image Width"
+msgstr ""
+
+#: ../functions/theme-customizer/image-sizes.php:53
+msgid "Entry Image Height"
+msgstr ""
+
+#: ../functions/theme-customizer/image-sizes.php:65
+msgid "Gallery Entry Image Height"
+msgstr ""
+
+#: ../functions/theme-customizer/image-sizes.php:77
+msgid "Post Image Width"
+msgstr ""
+
+#: ../functions/theme-customizer/image-sizes.php:89
+msgid "Post Image Height"
+msgstr ""
+
+#: ../functions/theme-customizer/logo.php:18
+msgid "Logo"
+msgstr ""
+
+#: ../functions/theme-customizer/logo.php:28
+msgid "Image Logo"
+msgstr ""
+
+#: ../functions/theme-customizer/logo.php:40
+msgid "Display Site Description Below Logo"
+msgstr ""
+
+#: ../functions/theme-customizer/styling.php:26
+msgid "Styling"
+msgstr ""
+
+#: ../functions/theme-customizer/styling.php:37
+msgid "Theme Skin"
+msgstr ""
+
+#: ../functions/theme-customizer/styling.php:43
+msgid "Purple (Default)"
+msgstr ""
+
+#: ../functions/theme-customizer/styling.php:44
+msgid "Black"
+msgstr ""
+
+#: ../functions/theme-customizer/styling.php:45
+msgid "Gray"
+msgstr ""
+
+#: ../functions/theme-customizer/styling.php:46
+msgid "Slate"
+msgstr ""
+
+#: ../functions/theme-customizer/styling.php:47
+msgid "Light Blue"
+msgstr ""
+
+#: ../functions/theme-customizer/styling.php:48
+msgid "Red"
+msgstr ""
+
+#: ../functions/theme-customizer/styling.php:122
+msgid "Logo Text Color"
+msgstr ""
+
+#: ../functions/theme-customizer/styling.php:130
+msgid "Logo Subheading Text Color"
+msgstr ""
+
+#: ../functions/theme-customizer/styling.php:137
+msgid "Sidebar Background"
+msgstr ""
+
+#: ../functions/theme-customizer/styling.php:144
+msgid "Sidebar Color"
+msgstr ""
+
+#: ../functions/theme-customizer/styling.php:152
+msgid "Menu Borders"
+msgstr ""
+
+#: ../functions/theme-customizer/styling.php:160
+msgid "Sidebar Link Color"
+msgstr ""
+
+#: ../functions/theme-customizer/styling.php:168
+msgid "Sidebar HoverLink Color"
+msgstr ""
+
+#: ../functions/theme-customizer/styling.php:176
+msgid "Readmore Color"
+msgstr ""
+
+#: ../functions/theme-customizer/styling.php:183
+msgid "Readmore Background"
+msgstr ""
+
+#: ../functions/theme-customizer/styling.php:190
+msgid "Readmore Hover Color"
+msgstr ""
+
+#: ../functions/theme-customizer/styling.php:197
+msgid "Readmore Hover Background"
+msgstr ""
+
+#: ../functions/theme-customizer/styling.php:204
+msgid "Entry Title Hover Color"
+msgstr ""
+
+#: ../functions/theme-customizer/styling.php:211
+msgid "Entry Overlay Background"
+msgstr ""
+
+#: ../functions/theme-customizer/styling.php:218
+msgid "Quote Entry Background"
+msgstr ""
+
+#: ../functions/theme-customizer/styling.php:225
+msgid "Quote Entry Hover Background"
+msgstr ""
+
+#: ../functions/theme-customizer/styling.php:233
+msgid "Quote Entry Color"
+msgstr ""
+
+#: ../functions/theme-customizer/styling.php:241
+msgid "Quote Entry Hover Color"
+msgstr ""
+
+#: ../functions/theme-customizer/styling.php:249
+msgid "Post Link Color"
+msgstr ""
+
+#: ../functions/theme-customizer/styling.php:256
+msgid "Post Link Hover Color"
+msgstr ""
+
+#: ../functions/theme-customizer/styling.php:263
+msgid "Back To Top Arrow Color"
+msgstr ""
+
+#: ../functions/theme-customizer/styling.php:271
+msgid "Back To Top Arrow Background"
+msgstr ""
+
+#: ../functions/theme-customizer/styling.php:279
+msgid "Theme Button Color"
+msgstr ""
+
+#: ../functions/theme-customizer/styling.php:287
+msgid "Theme Button Background"
+msgstr ""
+
+#: ../functions/theme-customizer/styling.php:295
+msgid "Theme Button Hover Color"
+msgstr ""
+
+#: ../functions/theme-customizer/styling.php:303
+msgid "Theme Button Hover Background"
+msgstr ""
+
+#: ../functions/widgets/widget-areas.php:12
+msgid "Main Sidebar"
+msgstr ""
+
+#: ../functions/widgets/widget-areas.php:14
+msgid "Widgets in this area are used in the main sidebar region."
+msgstr ""
+
+#: ../functions/widgets/widget-areas.php:23
+msgid "Secondary Sidebar"
+msgstr ""
+
+#: ../functions/widgets/widget-areas.php:25
+msgid "Widgets in this area are used in the secondary sidebar region."
+msgstr ""
+
+#: ../functions/widgets/widget-flickr.php:17
+msgid "Pulls in images from your Flickr account."
+msgstr ""
+
+#: ../functions/widgets/widget-flickr.php:20
+msgid "Flickr Stream"
+msgstr ""
+
+#: ../functions/widgets/widget-flickr.php:69
+#: ../functions/widgets/widget-posts-thumbnails.php:76
+#: ../functions/widgets/widget-social.php:125
+#: ../functions/widgets/widget-video.php:47
+msgid "Title:"
+msgstr ""
+
+#: ../functions/widgets/widget-flickr.php:74
+msgid "Flickr ID "
+msgstr ""
+
+#: ../functions/widgets/widget-flickr.php:79
+msgid "Number:"
+msgstr ""
+
+#: ../functions/widgets/widget-posts-thumbnails.php:14
+msgid "Posts With Thumbnails"
+msgstr ""
+
+#: ../functions/widgets/widget-posts-thumbnails.php:14
+msgid "Shows a listing of your recent or random posts with their thumbnail."
+msgstr ""
+
+#: ../functions/widgets/widget-posts-thumbnails.php:64
+msgid "Recent Posts"
+msgstr ""
+
+#: ../functions/widgets/widget-posts-thumbnails.php:80
+msgid "Number to Show:"
+msgstr ""
+
+#: ../functions/widgets/widget-posts-thumbnails.php:84
+msgid "Random or Recent?"
+msgstr ""
+
+#: ../functions/widgets/widget-posts-thumbnails.php:87
+msgid "Recent"
+msgstr ""
+
+#: ../functions/widgets/widget-posts-thumbnails.php:88
+msgid "Random"
+msgstr ""
+
+#: ../functions/widgets/widget-posts-thumbnails.php:93
+msgid "Disable Date?"
+msgstr ""
+
+#: ../functions/widgets/widget-social.php:15
+msgid "Social Widget"
+msgstr ""
+
+#: ../functions/widgets/widget-social.php:59
+msgid "Follow Us"
+msgstr ""
+
+#: ../functions/widgets/widget-social.php:130
+msgid "Link Target:"
+msgstr ""
+
+#: ../functions/widgets/widget-social.php:133
+msgid "Blank"
+msgstr ""
+
+#: ../functions/widgets/widget-social.php:134
+msgid "Self"
+msgstr ""
+
+#: ../functions/widgets/widget-social.php:138
+msgid "Social Links"
+msgstr ""
+
+#: ../functions/widgets/widget-social.php:139
+msgid "Enter the full URL to your social profile"
+msgstr ""
+
+#: ../functions/widgets/widget-video.php:18
+msgid "Embed a video using the WordPress built-in oEmbed function."
+msgstr ""
+
+#: ../functions/widgets/widget-video.php:23 ../templates/archives.php:56
+msgid "Video"
+msgstr ""
+
+#: ../functions/widgets/widget-video.php:53
+msgid "Video URL "
+msgstr ""
+
+#: ../functions/widgets/widget-video.php:55
+msgid ""
+"Enter in a video URL that is compatible with WordPress's built-in oEmbed "
+"feature."
+msgstr ""
+
+#: ../functions/widgets/widget-video.php:55
+msgid "Learn More"
+msgstr ""
+
+#: ../functions/widgets/widget-video.php:60
+msgid "Description"
+msgstr ""
+
+#: ../functions/widgets/widget-video.php:85
+msgid "You forgot to enter a video URL."
+msgstr ""
+
+#: ../templates/archives.php:34
+msgid "Latest Posts"
+msgstr ""
+
+#: ../templates/archives.php:49
+msgid "Archives by Month"
+msgstr ""
+
+#: ../templates/archives.php:53
+msgid "Archives by Format"
+msgstr ""
+
+#: ../templates/archives.php:55
+msgid "Gallery"
+msgstr ""
+
+#: ../templates/archives.php:57
+msgid "Audio"
+msgstr ""
+
+#: ../templates/archives.php:58
+msgid "Quotes"
+msgstr ""
+
+#: ../templates/archives.php:62
+msgid "Archives by Category"
+msgstr ""
